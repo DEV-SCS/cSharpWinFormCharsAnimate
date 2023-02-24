@@ -1,5 +1,8 @@
 # cSharpWinFormCharsAnimate
-C# dili ile form uygulaması yapmayı öğrenmeye başlandığında ilk akla gelen animasyonlu bir şeyler deneme çabası
+
+C# dili ile form uygulaması yapmayı öğrenmeye başladığımda ilk yapmaya çalıştığım şeylerden biri ve paylaşmak istedim :)
+Belirtmek isterim bu tarz şeyler sizinle paylaştığım kodlar ile yapılmıyor.
+CreateGraphics kütüphanesi gibi şeylerle yaptırmak daha doğrudur. Fakat hiç deneyimlemedim.
 
 
 
